@@ -1,0 +1,20 @@
+{
+  "name": "chemie",
+  "categories": [
+    {
+      "name": "A",
+      "weight": 0.6,
+      "grades": [3]
+    },
+    {
+      "name": "B",
+      "weight": 0.3,
+      "grades": [4, 1]
+    },
+    {
+      "name": "C",
+      "weight": 0.1,
+      "grades": [1, 2, 1, 2]
+    }
+  ]
+}

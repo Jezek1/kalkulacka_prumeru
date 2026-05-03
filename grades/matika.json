@@ -1,0 +1,20 @@
+{
+  "name": "matika",
+  "categories": [
+    {
+      "name": "A",
+      "weight": 0.6,
+      "grades": [3]
+    },
+    {
+      "name": "B",
+      "weight": 0.3,
+      "grades": [1, 1, 2, 3, 1, 2, 3, 1, 4, 2]
+    },
+    {
+      "name": "C",
+      "weight": 0.1,
+      "grades": []
+    }
+  ]
+}
